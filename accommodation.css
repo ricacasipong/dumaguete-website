@@ -1,0 +1,67 @@
+body{
+    font-family: arial;
+    background-color: rgb(127, 199, 217);
+}
+.Lg {
+    padding-left: 50x;
+}
+header {
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin: auto;
+    display: block;
+    background-color: rgb(127, 199, 217);
+}
+nav a:hover {
+    color: rgb(68, 126, 228);
+    font-weight: bold;
+}
+nav li.active a {
+    color: rgb(68, 126, 228);
+    border-bottom: 2px solid rgb(68, 126, 228);
+}
+div nav ul {
+    background-color: rgb(127, 199, 217);
+    padding: 30px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+}
+div nav ul li {
+    display: inline-block;
+    margin: auto;
+    padding: 0px 140px 0px 33px;
+}
+div nav a {
+    float: left;
+    margin: -10px 5px 0px 5px;
+    text-decoration: none;
+}
+.box {
+    margin-top: 0px;
+    margin-left: -5px;
+    margin-right: -5px;
+    border-top: 2px solid rgb(42, 136, 243);
+    border-bottom: 2px solid rgb(42, 136, 243);
+}
+.h {
+    text-align: center;
+}
+.pics {
+    padding-top: 1cm;
+    padding-left: 6cm;
+}
+pre {
+    font-family: arial;
+    line-height: 2;
+}
+.flo {
+    position: absolute;
+    text-align: justify;
+    padding-right: 10%;
+    margin-top: -15px;
+    top: 76%;
+    left: 50%;
+}
+.h1 {
+    padding-left: 6cm;
+}

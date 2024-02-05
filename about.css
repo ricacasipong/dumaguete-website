@@ -1,0 +1,127 @@
+body{
+    font-family: arial;
+    background-color: rgb(127, 199, 217);
+}
+.Lg {
+    padding-left: 50x;
+}
+header {
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin: auto;
+    display: block;
+    background-color: rgb(127, 199, 217);
+}
+nav a:hover {
+    color: rgb(68, 126, 228);
+    font-weight: bold;
+}
+nav li.active a {
+    color: rgb(68, 126, 228);
+    border-bottom: 2px solid rgb(68, 126, 228);
+}
+div nav ul {
+    background-color: rgb(127, 199, 217);
+    padding: 30px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+}
+div nav ul li {
+    display: inline-block;
+    margin: auto;
+    padding: 0px 140px 0px 33px;
+}
+div nav a {
+    float: left;
+    margin: -10px 5px 0px 5px;
+    text-decoration: none;
+}
+.box {
+    margin-top: 0px;
+    margin-left: -5px;
+    margin-right: -5px;
+    border-top: 2px solid rgb(42, 136, 243);
+    border-bottom: 2px solid rgb(42, 136, 243);
+}
+.h {
+    text-align: center;
+}
+.p {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    text-align: justify;
+    line-height: 2;
+}
+div ul li {
+    display: inline-block;
+    padding: 0px 90px 0px 90px;
+}
+.a {
+    padding-left: 155px;
+    padding-right: 163px;
+}
+.b {
+    padding-left: 108px;
+    padding-right: 107px;
+}
+.c {
+    padding-left: 146px;
+    padding-right: 132px;
+}
+.d {
+    padding-left: 150px;
+    padding-right: 165px;
+}
+.e {
+    padding-left: 135px;
+    padding-right: 195px;
+}
+.f {
+    padding-left: 153px;
+    padding-right: 222px;
+}
+.g {
+    padding-left: 155px;
+    padding-right: 131px;
+}
+.i {
+    padding-left: 155px;
+    padding-right: 107px;
+}
+.j {
+    padding-left: 183px;
+    padding-right: 166px;
+}
+.k {
+    padding-left: 130px;
+    padding-right: 175px;
+}
+.l {
+    padding-left: 97px;
+    padding-right: 220px;
+}
+.m {
+    padding-left: 138px;
+    padding-right: 142px;
+}
+.n {
+    padding-left: 177px;
+    padding-right: 111px;
+}
+.o {
+    padding-left: 160px;
+    padding-right: 91px;
+}
+.q {
+    padding-left: 223px;
+    padding-right: 113px;
+}
+.r {
+    padding-left: 142px;
+    padding-right: 120px;
+}
+.s {
+    padding-left: 85px;
+    padding-right: 113px;
+}
+
